@@ -1,0 +1,54 @@
+body {
+    background-image: url("https://cdn.discordapp.com/attachments/1041892945474900008/1119806263698665542/nazzout_drumset_on_fire_aae26edb-8811-4bd0-9cff-ec9e2380fea6.png?ex=6575195a&is=6562a45a&hm=a47e58ce1d238bc4f439c0f329deffbbd7d662854867825a68ef48f5f1347bbf&");
+    background-size: cover;
+    color: rgba(255, 255, 255, 0.9);
+    font-family: 'monserrat', sans-serif;
+    font-weight: boldst;
+    text-align: center;
+}
+
+.container {
+    border: 1px solid rgb(255, 255, 255, 0.2);
+    padding-top: 50px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    background: rgba(19, 19, 19, 0.3);
+    max-width: auto;
+    margin: auto;
+    border-radius: 12px;
+}
+
+h1 {
+    margin-top: 30px;
+    margin-bottom: 18px;
+}
+
+h2 {
+    font-size: 100px;
+    margin-top: 0;
+    margin-bottom: 18px;
+}
+
+button {
+    border: none;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    width: 180px;
+    margin-bottom: 18px;
+    border-radius: 2px;
+}
+
+#increment-btn {
+    border: .05px solid rgb(202, 202, 202);
+    background: linear-gradient(to right, rgb(197, 196, 158), rgb(231, 192, 17), rgb(255, 60, 0));
+    margin-right: 10px;
+}
+
+#save-btn {
+    color: rgb(202, 202, 202, 0.9);
+    border: .05px solid rgb(202, 202, 202);
+    background: rgb(0, 0, 0, 0.7);
+}
